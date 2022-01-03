@@ -1,0 +1,13 @@
+{
+  "employee": [
+    {
+      "name": "titan",
+      "age": "56",
+      "department": "c",
+      "salary": "67",
+      "prof": "https://fashionterest.com/wp-content/uploads/2019/02/stylish-whatsapp-dp-for-girl-images-1-1024x1014.jpg",
+      "martial": "unmarried",
+      "id": 1
+    }
+  ]
+}
